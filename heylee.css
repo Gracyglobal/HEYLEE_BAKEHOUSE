@@ -1,0 +1,58 @@
+body {
+    background-color: #f8f8ff;
+}  
+
+h1{
+    color: #c71585;
+    text-align: center;
+    font-size: 26px; 
+    letter-spacing: 1px;
+}
+
+
+h2{
+    color: #c71585;
+    letter-spacing: 1.2px;
+}
+
+.bake{
+       font-size: 18px;
+}
+
+p{
+    font-size: 18px;
+    letter-spacing: 0.6px;
+}
+
+.delivery h1{
+    color: #c71585;
+    letter-spacing: 1.2px;
+}
+
+.thanks{
+    color: #c71585;
+    font-size: 55px;
+    letter-spacing: 2px;
+    text-align: center;
+    
+}
+
+.heylee{
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #c71585;
+}
+
+.label{
+    font-size: 17px;
+}
+
+.call{
+    font-size: 15px;
+    text-align: center;
+}
+
+.or{
+    text-align: center;
+}
