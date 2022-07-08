@@ -58,3 +58,7 @@ p{
 .or{
     text-align: center;
 }
+
+input[type=checkbox] {
+    transform: scale(2.8);
+}
