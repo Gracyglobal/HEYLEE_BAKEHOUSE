@@ -27,6 +27,7 @@ input{
 p{
     font-size: 55px;
     letter-spacing: 0.6px;
+    object-fit: contain;
 }
 
 .delivery h1{
@@ -40,7 +41,7 @@ p{
     letter-spacing: 10px;
     line-spacing: 2px;
     text-align: center;
-    
+    object-fit: contain;
 }
 
 .heylee{
